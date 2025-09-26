@@ -2,6 +2,8 @@ package org.example;
 
 import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
+import static org.example.AlgoUtils.*;
+
 public final class QuickSort {
 
     public static void sort(int[] a) { sort(a, null, null); }
