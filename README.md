@@ -36,8 +36,8 @@ The strip check costs ≤7 comparisons per point, so hidden constants remain sma
 On small n (≤2000), brute-force O(n²) is used for validation.
 
 Plots & Constant Factors
+<img width="1788" height="810" alt="chart" src="https://github.com/user-attachments/assets/89d35e69-e82c-4c46-b1de-b4bdaf2a641e" />
 
-![img.png](img.png)
 Time vs n
 MergeSort and Closest Pair: clearly grow as n log n.
 QuickSort: similar slope but faster due to in-place recursion and less memory usage.
