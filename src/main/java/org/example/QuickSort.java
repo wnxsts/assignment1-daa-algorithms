@@ -8,7 +8,8 @@ public final class QuickSort {
 
     public static void sort(int[] a) { sort(a, null, null); }
     public static void sort(int[] a, Counters c, DepthTracker d) {
-        if (a == null || a.length < 2) return;
+
+        if (a == null || a.length <= 1) return;
         if (c == null) c = new Counters();
         if (d == null) d = new DepthTracker();
         Random rng = ThreadLocalRandom.current();
