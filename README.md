@@ -75,8 +75,9 @@ On small n (≤2000), brute-force O(n²) is used for validation.
 
 Plots & Constant Factors
 
+<img width="392" height="253" alt="image" src="https://github.com/user-attachments/assets/2d9e405f-9d5e-4caa-9014-4dce10c1b3ed" />
+<img width="389" height="252" alt="image" src="https://github.com/user-attachments/assets/1e251c8c-610a-4b85-8499-fdeb66b1ed3a" />
 
-<img width="1788" height="810" alt="chart" src="https://github.com/user-attachments/assets/89d35e69-e82c-4c46-b1de-b4bdaf2a641e" />
 
 Time vs n
 
